@@ -1,0 +1,14 @@
+C:\Users\myway\documents\visual studio 2015\Projects\Drawing\MACOs.JY.Drawing\bin\Debug\MACOs.JY.Drawing.dll
+C:\Users\myway\documents\visual studio 2015\Projects\Drawing\MACOs.JY.Drawing\bin\Debug\MACOs.JY.Drawing.pdb
+C:\Users\myway\documents\visual studio 2015\Projects\Drawing\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.dll
+C:\Users\myway\documents\visual studio 2015\Projects\Drawing\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.pdb
+C:\Users\JYEng\Desktop\33010C#Example\2018.03.30chroma33010Examples\MACOs.JY.Drawing\bin\Debug\MACOs.JY.Drawing.dll
+C:\Users\JYEng\Desktop\33010C#Example\2018.03.30chroma33010Examples\MACOs.JY.Drawing\bin\Debug\MACOs.JY.Drawing.pdb
+C:\Users\JYEng\Desktop\33010C#Example\2018.03.30chroma33010Examples\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.csprojResolveAssemblyReference.cache
+C:\Users\JYEng\Desktop\33010C#Example\2018.03.30chroma33010Examples\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.csproj.CoreCompileInputs.cache
+C:\Users\JYEng\Desktop\33010C#Example\2018.03.30chroma33010Examples\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.dll
+C:\Users\JYEng\Desktop\33010C#Example\2018.03.30chroma33010Examples\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.pdb
+C:\Users\myway\Documents\Visual Studio 2015\Projects\MACOs.JY.Drawing\MACOs.JY.Drawing\bin\Debug\MACOs.JY.Drawing.dll
+C:\Users\myway\Documents\Visual Studio 2015\Projects\MACOs.JY.Drawing\MACOs.JY.Drawing\bin\Debug\MACOs.JY.Drawing.pdb
+C:\Users\myway\Documents\Visual Studio 2015\Projects\MACOs.JY.Drawing\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.dll
+C:\Users\myway\Documents\Visual Studio 2015\Projects\MACOs.JY.Drawing\MACOs.JY.Drawing\obj\Debug\MACOs.JY.Drawing.pdb
